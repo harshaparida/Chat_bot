@@ -39,7 +39,7 @@ These instructions will get you a copy of the project up and running on your loc
    - Run the training script:
 
      ```bash
-     python train_chatbot.py
+     python Chat_bot.py
      ```
 
    This will train the chatbot model and save it along with the tokenizer and label encoder.
@@ -49,7 +49,7 @@ These instructions will get you a copy of the project up and running on your loc
    - Once the chatbot is trained, you can start chatting with it using the interactive chat script:
 
      ```bash
-     python chat.py
+     python Chat_bot.py
      ```
 
    The chatbot will prompt you to enter a message, and it will respond based on the trained model.
